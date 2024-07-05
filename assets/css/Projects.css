@@ -1,0 +1,21 @@
+.projects {
+	margin-bottom: 20px;
+  }
+  
+  .projects h3 {
+	border-bottom: 2px solid #777;
+	padding-bottom: 5px;
+	margin-bottom: 10px;
+  }
+  
+  .projects h4 {
+	margin: 0;
+	font-size: 1.2em;
+	color: #333;
+  }
+  
+  .projects p {
+	margin: 5px 0;
+	color: #555;
+  }
+  
