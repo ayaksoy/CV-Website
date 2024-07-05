@@ -1,0 +1,23 @@
+.skills {
+	margin-bottom: 20px;
+	color: black;
+  }
+  
+  .skills h3 {
+	border-bottom: 2px solid #777;
+	padding-bottom: 5px;
+	margin-bottom: 10px;
+  }
+  
+  .skills ul {
+	list-style-type: none;
+	padding: 0;
+  }
+  
+  .skills ul li {
+	background: #f4f4f4;
+	margin: 5px 0;
+	padding: 10px;
+	border: 1px solid #ddd;
+  }
+  
