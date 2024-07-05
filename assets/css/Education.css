@@ -1,0 +1,21 @@
+.education {
+	margin-bottom: 20px;
+  }
+  
+  .education h3 {
+	border-bottom: 2px solid #777;
+	padding-bottom: 5px;
+	margin-bottom: 10px;
+  }
+  
+  .education h4 {
+	margin: 0;
+	font-size: 1.2em;
+	color: #333;
+  }
+  
+  .education p {
+	margin: 5px 0;
+	color: #555;
+  }
+  
