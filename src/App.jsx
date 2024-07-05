@@ -46,7 +46,7 @@ function App() {
   const projects = [
     {
       name: 'Project A',
-      description: 'Developed a full-stack application using React and Node.js.',
+      description: 'Developed a full-stack application using React and Dotnet',
     },
   ];
 
