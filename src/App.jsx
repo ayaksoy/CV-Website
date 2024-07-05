@@ -48,7 +48,6 @@ function App() {
       name: 'Project A',
       description: 'Developed a full-stack application using React and Node.js.',
     },
-    // Diğer projeleri buraya ekleyin.
   ];
 
   const certifications = [
@@ -56,7 +55,6 @@ function App() {
       name: 'Certified React Developer',
       institution: 'React Institute',
     },
-    // Diğer sertifikaları buraya ekleyin.
   ];
 
   const contact = {
